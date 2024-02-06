@@ -52,3 +52,12 @@ section#login > div#fromulario{
     display: block;
     padding: 10px;
 }
+
+div#formulario{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p{
+    font-size: 0.8em;
+}
